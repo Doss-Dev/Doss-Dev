@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Doss-Dev
-- 👀 I’m interested in the security side of application development.
-- 🌱 I’m currently learning C#, Azure, and preparing for a Sec+ recertification.
+- 🌱 I’m currently learning .NET Core, React.js, T-SQL, Docker, and cloud technologies.
 - 💞️ I’m looking to collaborate on most any project.
 - 📫 How to reach me : here on Github
 
